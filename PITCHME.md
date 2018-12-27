@@ -4,7 +4,7 @@
 
 ---
 
-<img src="">
+<img src="https://github.com/SeungahYoo/SSAFY_seoul_5_SIMON/blob/master/gyuseok.PNG?raw=true">
 
 **Name** : 김규석
 
