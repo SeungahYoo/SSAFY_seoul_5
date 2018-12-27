@@ -1,6 +1,16 @@
 ## 팀원 소개
 
+---
 
+<img src="">
+
+**Name** : 최성호
+
+**Nickname** : 꼬마돌
+
+**Character** : 우직함
+
+**Year-end Plan** : 가족들과 해돋이 보러가기, 친구들과 술먹기
 
 ---
 
@@ -20,15 +30,32 @@
 
 
 
+**Name** : 유승아
 
+**Nickname** : 유응아
 
-다라마
+**Character** : 청렴결백한 논리주의자 - 사실에 근거하여 사고하며 이들의 행동이나 결정사항에 한 치의 의심을 사지 않는 현실주의자형
 
----
-
-
-
-마바사
+**Year-end Plan** : 가족과 함께 케익먹기
 
 ---
 
+
+
+**Name** : 
+
+**Nickname** : 
+
+**Character** : 
+
+**Year-end Plan** : 
+
+---
+
+**Name** : 
+
+**Nickname** : 
+
+**Character** : 
+
+**Year-end Plan** : 
