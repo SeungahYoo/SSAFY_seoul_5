@@ -42,13 +42,13 @@
 
 
 
-**Name** : 
+**Name** : 이기문
 
-**Nickname** : 
+**Nickname** : 이기문지기
 
-**Character** : 
+**Character** : 물
 
-**Year-end Plan** : 
+**Year-end Plan** : 소주, 맥주, 와인, 양주, 약주
 
 ---
 
