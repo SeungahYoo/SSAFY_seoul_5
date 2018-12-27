@@ -22,7 +22,7 @@
 
 **Character** : 청렴결백한 논리주의자
 
-**Year-end Plan** : Toeic Speaking
+**Year-end Plan** : 가족들과 연말 회식
 
 
 
@@ -61,3 +61,14 @@
 **Character** : 선의의 옹호자 
 
 **Year-end Plan** : 가족들, 친구들과 함께 맛있는 거 먹기
+
+---
+
+**Name** : 원동호
+
+**Nickname** : 환자
+
+**Character** : 아프다..
+
+**Year-end Plan** : 요양하기
+
