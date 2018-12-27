@@ -1,4 +1,10 @@
-![a](C:\Users\student\Desktop\a.PNG)
+## 팀원 소개
+
+
+
+---
+
+<img src="">
 
 **Name** : 김규석
 
