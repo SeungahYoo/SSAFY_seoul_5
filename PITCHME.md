@@ -1,6 +1,18 @@
-가나다
+![a](C:\Users\student\Desktop\a.PNG)
+
+**Name** : 김규석
+
+**Nickname** : 규식 (부르기편해서)
+
+**Character** : 청렴결백한 논리주의자
+
+**Year-end Plan** : Toeic Speaking
+
+
 
 ---
+
+
 
 
 
